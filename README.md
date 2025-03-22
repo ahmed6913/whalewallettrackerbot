@@ -1,7 +1,9 @@
-Ethereum Whale Wallet Tracker Bot
+Ethereum Whale Wallet Tracker Bot 
+
 This bot tracks Ethereum whale wallets and sends real-time notifications about wallet balances and transactions via Telegram. The bot is designed to monitor a set of Ethereum wallets for any transactions and provides detailed updates including transaction value, sender, recipient, and transaction hash.
 
 Features
+
 Monitors Ethereum whale wallets for transaction activity.
 
 Tracks the balance of monitored wallets in Ether.
@@ -11,6 +13,7 @@ Sends notifications to a Telegram chat for any relevant transactions.
 Tracks the last 10 Ethereum blocks for wallet transactions.
 
 Prerequisites
+
 Before using this bot, make sure you have the following:
 
 Python 3.x installed.
