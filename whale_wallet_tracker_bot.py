@@ -13,7 +13,8 @@ web3 = Web3(Web3.HTTPProvider(INFURA_URL))
 # List of whale wallet addresses to track
 whale_wallets = [
     '0x9e927c02C9eadAE63f5EFb0Dd818943c7262Fb8e',
-    '0x00000000219ab540356cBB839Cbe05303d7705Fa'
+    '0x00000000219ab540356cBB839Cbe05303d7705Fa',
+    '0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97'
     # Replace with actual Ethereum wallet addresses
 ]    
 
