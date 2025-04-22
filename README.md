@@ -1,26 +1,37 @@
-Ethereum Whale Wallet Tracker Bot 
+# 🐋 Ethereum Whale Wallet Tracker Bot
 
-This bot tracks Ethereum whale wallets and sends real-time notifications about wallet balances and transactions via Telegram. The bot is designed to monitor a set of Ethereum wallets for any transactions and provides detailed updates including transaction value, sender, recipient, and transaction hash.
+This bot tracks Ethereum whale wallets and sends **real-time notifications** about wallet balances and transactions via **Telegram**. It's perfect for crypto enthusiasts, analysts, and anyone interested in monitoring large-scale Ethereum movements.
 
-Features
+---
 
-Monitors Ethereum whale wallets for transaction activity.
+## 🚀 Features
 
-Tracks the balance of monitored wallets in Ether.
+- 🔍 Monitors specified Ethereum whale wallets for **incoming and outgoing transactions**
+- 💰 Tracks current **ETH balance** of each monitored wallet
+- 📲 Sends **real-time Telegram alerts** for every transaction
+- 📦 Scans the **latest 10 Ethereum blocks** for wallet activity
+- 🔗 Includes **transaction hash, sender, recipient, and value** in alerts
 
-Sends notifications to a Telegram chat for any relevant transactions.
+---
 
-Tracks the last 10 Ethereum blocks for wallet transactions.
+## 🛠️ Installation & Setup
 
-STEPS TO RUN THIS BOT LOCALLY ON THE MACHINE 
+### 1. Clone the Repository
 
-1. pip install python-telegram-bot requests web3
-2. cd to whalewallettrackerbot 
-3. run the script python whale_wallet_tracker_bot.py
- in CMD
+```bash
+1.git clone https://github.com/yourusername/whalewallettrackerbot.git
+2.cd whalewallettrackerbot
+3.pip install python-telegram-bot requests web3
+4.python whale_wallet_tracker_bot.py
 
 
+🚨 Whale Transaction Detected 🚨
+
+💸 From: 0xabc...def  
+💼 To: 0x123...456  
+💰 Value: 1,250 ETH  
+🔗 Tx Hash: https://etherscan.io/tx/0x...
+
+New Balance of From Wallet: 3,000 ETH
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.# whalewallettrackerbot
