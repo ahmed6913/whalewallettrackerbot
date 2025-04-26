@@ -29,11 +29,14 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 🚨 Whale Transaction Detected 🚨
 
-💸 From: 0xabc...def  
-💼 To: 0x123...456  
-💰 Value: 1,250 ETH  
-🔗 Tx Hash: https://etherscan.io/tx/0x...
+🚨 [Whale Alert] 🚨
 
-New Balance of From Wallet: 3,000 ETH
+📦 Block: 17654321
+👤 From: 0xabc...
+👤 To: 0xdef...
+💰 Value: 120 ETH
+🔗 View Transaction
+
+
 
 
