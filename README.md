@@ -10,7 +10,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 - 🔍 Monitors specified Ethereum whale wallets for **incoming and outgoing transactions**
 - 💰 Tracks current **ETH balance** of each monitored wallet
-- 📲 Sends **real-time Telegram alerts** for every transaction
+- 📲 Sends **real-time Telegram and discord alerts** for every transaction
 - 📦 Scans the **latest 10 Ethereum blocks** for wallet activity
 - 🔗 Includes **transaction hash, sender, recipient, and value** in alerts
 
