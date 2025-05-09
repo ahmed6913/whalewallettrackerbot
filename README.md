@@ -4,12 +4,11 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 Notion link for reference - https://www.notion.so/Agile-programing-project-1dd6368c9a0a804e8475c31c097afdb9?pvs=4
 ---
-
 ## 🚀 Features
 
 - 🔍 Monitors specified Ethereum whale wallets for **incoming and outgoing transactions**
 - 💰 Tracks current **ETH balance** of each monitored wallet
-- 📲 Sends **real-time Telegram and discord alerts** for every transaction
+- 📲 Sends **real-time Telegram and Discord alerts** for every transaction
 - 📦 Scans the **latest 10 Ethereum blocks** for wallet activity
 - 🔗 Includes **transaction hash, sender, recipient, and value** in alerts
 
@@ -19,14 +18,14 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 ### 1. Clone the Repository
 
-```bash
+```bash for windows
 1.git clone https://github.com/yourusername/whalewallettrackerbot.git
 2.cd whalewallettrackerbot
 3.pip install python-telegram-bot requests web3
 4.python whale_wallet_tracker_bot.py
 
 
-🚨 Whale Transaction Detected 🚨
+🚨 Whale Transaction Detected 🚨 
 
 🚨 [Whale Alert] 🚨
 
