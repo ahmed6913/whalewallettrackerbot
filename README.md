@@ -1,4 +1,4 @@
-# 🐋 Ethereum Whale Wallet Tracking Bot (screenshots attached with the code above)
+# 🐋 Ethereum Whale Wallet Tracking Bot (Screenshots attached with the code above)
 
 This bot tracks Ethereum whale wallets and sends **real-time notifications** about wallet balances and transactions via **Telegram** and **Discord**. It's perfect for crypto enthusiasts, analysts, and anyone interested in monitoring large-scale Ethereum movements.
 
