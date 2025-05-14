@@ -29,6 +29,8 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 🚨 [Whale Alert] 🚨
 
+**Discord Alert**
+
 📦 Block: 17654321
 👤 From: 0xabc...
 👤 To: 0xdef...
