@@ -12,7 +12,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 - 📦 Scans the **latest 10 Ethereum blocks** for wallet activity
 - 🔗 Includes **transaction hash, sender, recipient, and value** in alerts
 
----
+----
 
 ## 🛠️ Installation & Setup
 
