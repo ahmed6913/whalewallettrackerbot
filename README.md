@@ -8,7 +8,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 - 🔍 Monitors specified Ethereum whale wallets for **incoming and outgoing transactions**
 - 💰 Tracks current **ETH balance** of each monitored wallet
-- 📲 Sends **real-time Telegram and Discord alerts** for every transaction
+- 📲 Sends **real-time Telegram and Discord alerts** **Displays alerts on Frontend UI** for every transaction
 - 📦 Scans the **latest 10 Ethereum blocks** for wallet activity
 - 🔗 Includes **transaction hash, sender, recipient, and value** in alerts
 
@@ -23,6 +23,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 2.cd whalewallettrackerbot
 3.pip install python-telegram-bot requests web3
 4.python whale_wallet_tracker_bot.py
+5.python tracker.py
 
 
 🚨 Whale Transaction Detected 🚨 
