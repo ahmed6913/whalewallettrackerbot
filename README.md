@@ -46,3 +46,9 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 
 🔗 [View it here](https://ahmed6913.github.io/whalewallettrackerbot/)
 
+## 📄 License
+
+This project is **not licensed for reuse**.  
+All rights reserved © 2025 [shaikh saim].  
+You may not copy, distribute, or modify any part of this project without explicit permission.
+
