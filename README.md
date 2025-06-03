@@ -42,5 +42,8 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 **Telegram Alert**
 
 
+## 🚀 Live Version
 
+Live deployed on GitHub Pages clink on the below link 👇🏻
+🔗 [Live Website]() — *(deployed)*
 
