@@ -19,6 +19,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 ### 1. Clone the Repository
 
 ```bash for windows
+
 1.git clone https://github.com/yourusername/whalewallettrackerbot.git
 2.cd whalewallettrackerbot
 3.pip install python-telegram-bot requests web3
@@ -37,6 +38,8 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 👤 To: 0xdef...
 💰 Value: 120 ETH
 🔗 View Transaction
+
+**Telegram Alert**
 
 
 
