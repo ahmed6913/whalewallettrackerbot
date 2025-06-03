@@ -42,8 +42,7 @@ Notion link for reference - https://www.notion.so/Agile-programing-project-1dd63
 **Telegram Alert**
 
 
-## 🚀 Live Version
+## 🚀 Live Demo
 
-Live deployed on GitHub Pages clink on the below link 👇🏻
-🔗 [Live Website]() — *(deployed)*
+🔗 [View it here](https://ahmed6913.github.io/whalewallettrackerbot/)
 
