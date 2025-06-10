@@ -47,6 +47,7 @@ Workflow chart - https://excalidraw.com/#json=JryAFeGW7z_i7TAVs1Tvw,sfxFIBHQYHC1
 ## 🚀 Live Demo
 
 🔗 [View it here](https://ahmed6913.github.io/whalewallettrackerbot/).
+    copy the above link and paste it in the browser.
 
 ## 📄 License
 
