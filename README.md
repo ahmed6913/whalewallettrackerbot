@@ -31,10 +31,10 @@ Workflow chart - https://excalidraw.com/#json=JryAFeGW7z_i7TAVs1Tvw,sfxFIBHQYHC1
 
 🚨 Whale Transaction Detected 🚨 
 
-🚨 [Whale Alert] 🚨
 
 **Discord Alert**
 
+🚨 [Whale Alert] 🚨
 📦 Block: 17654321
 👤 From: 0xabc...
 👤 To: 0xdef...
@@ -42,6 +42,13 @@ Workflow chart - https://excalidraw.com/#json=JryAFeGW7z_i7TAVs1Tvw,sfxFIBHQYHC1
 🔗 View Transaction
 
 **Telegram Alert**
+
+🚨 [Whale Alert] 🚨
+📦 Block: 22609611
+👤 From: 0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97
+👤 To: 0x388C818CA8B9251b393131C08a736A67ccB19297
+💰 Value: 0.028034138781123913 ETH
+🔗 https://etherscan.io/tx/cfc483518a33420066e7afea9fda36d4b4bc4d8cfd88cb0c8449b969b72f9eb6
 
 
 ## 🚀 Live Demo
