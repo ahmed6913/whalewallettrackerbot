@@ -54,8 +54,12 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 ## 🚀 Live Demo
 
-🔗 [View it here](https://ahmed6913.github.io/whalewallettrackerbot/).
+🔗 [View it here](https://ahmed6913.github.io/whalewallettrackerbot/)
     copy the above link and paste it in the browser.
+
+## 🚀 Deploymnent
+
+Link - https://whalewallettrackerbot.vercel.app/
 
 ## 📄 License
 
