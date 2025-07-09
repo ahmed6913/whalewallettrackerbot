@@ -6,6 +6,8 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 🧑🏻‍💻 Workflow Chart - https://excalidraw.com/#json=JryAFeGW7z_i7TAVs1Tvw,sfxFIBHQYHC19Kn94YKkyg
 
+🖥️ Jira - https://ahmedshaikh777121.atlassian.net/jira/core/projects/WHAL/summary?atlOrigin=eyJwIjoiaiIsImkiOiJFMEEzQkFGMkRERUE0OEFBODUxRTI0NUY5RTM3NkI1NCJ9
+
 ---
 ## 🚀 Features
 
