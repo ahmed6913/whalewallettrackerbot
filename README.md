@@ -34,7 +34,6 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 🚨 Whale Transaction Detected 🚨 
 
-
 **Discord Alert**
 
 🚨 [Whale Alert] 🚨
@@ -48,8 +47,8 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 🚨 [Whale Alert] 🚨
 📦 Block: 22609611
-👤 From: 0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97
-👤 To: 0x388C818CA8B9251b393131C08a736A67ccB19297
+👤 From: 0x48...
+👤 To: 0x388...
 💰 Value: 0.028034138781123913 ETH
 🔗 https://etherscan.io/tx/cfc483518a33420066e7afea9fda36d4b4bc4d8cfd88cb0c8449b969b72f9eb6
 
