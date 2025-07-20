@@ -60,6 +60,8 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 
 ## 🚀 Deploymnent
 
+Deployed on vercel 
+
 ### Frontend 
 
 Link - https://whalewallettrackerbot.vercel.app/
