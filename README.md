@@ -31,7 +31,7 @@ This bot tracks Ethereum whale wallets and sends **real-time notifications** abo
 4.python whale_wallet_tracker_bot.py
 5.python tracker.py
 
-Note - api setup needed refer to .env file 
+Note - apikey setup needed check .env file 
 
 🚨 Whale Transaction Detected 🚨 
 
