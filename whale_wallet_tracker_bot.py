@@ -2,6 +2,7 @@
 import time
 import requests
 from web3 import Web3  
+import csv
 
 # Telegram Bot API Token and Chat ID
 TELEGRAM_API_TOKEN = '8090054164:AAGnzjvWs4t57Thh1Zlrxanq4JL3xlWpX9o'
@@ -18,6 +19,20 @@ web3 = Web3(Web3.HTTPProvider(INFURA_URL))
 whale_wallets = ['0x9e927c02C9eadAE63f5EFb0Dd818943c7262Fb8e',
     '0x00000000219ab540356cBB839Cbe05303d7705Fa',
     '0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97']
+
+# List to store detected whale transactions
+detected_transactions = []
+
+def save_transactions_csv(transactions, filename="whale_transactions.csv"):
+    if not transactions:
+        print("No transactions to save.")
+        return
+    keys = transactions[0].keys()
+    with open(filename, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=keys)
+        writer.writeheader()
+        writer.writerows(transactions)
+    print(f"Saved {len(transactions)} transactions to {filename}")
 
 # Send Telegram
 def send_telegram_message(message):
@@ -57,6 +72,13 @@ def get_latest_transactions(wallet_address):
 
                 send_telegram_message(message)
                 send_discord_message(message)
+                detected_transactions.append({
+                    "block": block_num,
+                    "from": tx['from'],
+                    "to": tx['to'],
+                    "value_eth": float(web3.from_wei(tx['value'], 'ether')),
+                    "tx_hash": tx['hash'].hex()
+                })
 
 # Whale Tracker
 def track_wallets():
@@ -66,6 +88,7 @@ def track_wallets():
             ether_balance = web3.from_wei(balance, 'ether')
             print(f"Wallet: {wallet} Balance: {ether_balance} ETH")
             get_latest_transactions(wallet)
+        save_transactions_csv(detected_transactions)
         time.sleep(60)
 
 if __name__ == '__main__':
